@@ -1,0 +1,33 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.NotesManager" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/sky_blue</item>
+        <item name="colorPrimaryVariant">@color/dark_sky_blue</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+
+        <!-- Toolbar specific styles -->
+        <item name="toolbarStyle">@style/Widget.NotesManager.Toolbar</item>
+        <item name="actionMenuTextColor">@color/white</item>
+    </style>
+
+    <style name="Theme.NotesManager" parent="Base.Theme.NotesManager" />
+
+    <!-- Custom Toolbar Style -->
+    <style name="Widget.NotesManager.Toolbar" parent="Widget.AppCompat.Toolbar">
+        <item name="titleTextColor">@color/white</item>
+        <item name="subtitleTextColor">@color/white</item>
+        <item name="android:background">@color/sky_blue</item>
+    </style>
+
+    <style name="Theme.NotesManager.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="colorControlNormal">@color/white</item>
+        <item name="colorControlHighlight">@color/white</item>
+    </style>
+
+    <style name="Theme.NotesManager.PopupOverlay" parent="ThemeOverlay.AppCompat.Light">
+        <item name="actionMenuTextColor">@color/white</item>
+    </style>
+</resources>
