@@ -11,7 +11,9 @@
         android:layout_height="wrap_content"
         android:text="Notes Manager"
         android:textColor="@color/white"
-        android:textSize="32sp"
-        android:textStyle="bold" />
+        android:textSize="34sp"
+        android:textStyle="bold"
+        android:animateLayoutChanges="true"
+        android:layoutAnimation="@android:anim/fade_in" />
 
 </LinearLayout>

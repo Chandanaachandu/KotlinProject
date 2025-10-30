@@ -4,22 +4,29 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#F9FAFB"
     tools:context=".fragments.list.ListFragment">
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/recyclerview"
         android:layout_width="match_parent"
-        android:layout_height="match_parent" />
+        android:layout_height="match_parent"
+        android:clipToPadding="false"
+        android:padding="12dp"
+        android:scrollbars="vertical"
+        android:overScrollMode="ifContentScrolls"
+        android:layoutAnimation="@anim/layout_fall_down" />
 
     <com.google.android.material.floatingactionbutton.FloatingActionButton
         android:id="@+id/floatingActionButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="bottom|end"
-        android:layout_margin="16dp"
+        android:layout_margin="20dp"
+        android:contentDescription="Add Note"
         android:clickable="true"
         android:focusable="true"
         android:src="@drawable/ic_add"
-        android:tint="@color/sky_blue" />
+        android:backgroundTint="@color/dark_sky_blue" />
 
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
