@@ -57,7 +57,7 @@ A simple and elegant Android Notes Manager application built with Kotlin that al
      - Connect an Android device with USB debugging enabled OR
      - Create and start an Android Virtual Device (AVD) from Android Studio
      - Click the "Run" button or press Shift + F10
-     - 
+  
 ## Option 2: Clone Repository 
   1. Clone the repository
   
@@ -74,7 +74,6 @@ A simple and elegant Android Notes Manager application built with Kotlin that al
   4. Run on device/emulator
      - Connect an Android device or start an emulator
      - Click "Run" (Shift + F10) or the play button
-
 
 ## Usage Guide
   1. Adding a Note: Tap the floating action button (+), fill in title and description, then save
