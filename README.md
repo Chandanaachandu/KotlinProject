@@ -32,26 +32,12 @@ A simple and elegant Android Notes Manager application built with Kotlin that al
   6. Gradle Build Tool, Android Studio IDE
 
 ## Screenshots
-
 <div align="center">
-Splash Screen
-<img src="https://github.com/Chandanaachandu/KotlinProject/blob/136530efe8ecf08b89ecce40ede0d0c7bdcd68b9/Splash_Screen.jpg" width="250" height="500" alt="Splash Screen" />
-  
-Home Screen
-<img src="https://github.com/Chandanaachandu/KotlinProject/blob/94578c8558b7dbdefa538c5187b09c2cc6b9ecff/Home_Screen.jpg" width="250" height="500" alt="Home Screen" />
-  
-Notes List
-<img src="https://github.com/Chandanaachandu/KotlinProject/blob/94578c8558b7dbdefa538c5187b09c2cc6b9ecff/NotesList_Screen.jpg" width="250" height="500" alt="Notes List Screen" />
-  
-Add Note
-<img src="https://github.com/Chandanaachandu/KotlinProject/blob/94578c8558b7dbdefa538c5187b09c2cc6b9ecff/AddNote_Screen.jpg" width="250" height="500" alt="Add Note Screen" />
-  
-Update Note
-<img src="https://github.com/Chandanaachandu/KotlinProject/blob/94578c8558b7dbdefa538c5187b09c2cc6b9ecff/UpdateNote_Screen.jpg" width="250" height="500" alt="Update Note Screen" />
-  
-Delete Note
-<img src="https://github.com/Chandanaachandu/KotlinProject/blob/94578c8558b7dbdefa538c5187b09c2cc6b9ecff/DeleteNote_Screen.jpg" width="250" height="500" alt="Delete Note Screen" />
-  
+Application Screenshots
+Splash Screen	Home Screen	Notes List
+<img src="https://github.com/Chandanaachandu/KotlinProject/blob/136530efe8ecf08b89ecce40ede0d0c7bdcd68b9/Splash_Screen.jpg" width="200" height="400" alt="Splash Screen" />	<img src="https://github.com/Chandanaachandu/KotlinProject/blob/94578c8558b7dbdefa538c5187b09c2cc6b9ecff/Home_Screen.jpg" width="200" height="400" alt="Home Screen" />	<img src="https://github.com/Chandanaachandu/KotlinProject/blob/94578c8558b7dbdefa538c5187b09c2cc6b9ecff/NotesList_Screen.jpg" width="200" height="400" alt="Notes List Screen" />
+Add Note	Update Note	Delete Note
+<img src="https://github.com/Chandanaachandu/KotlinProject/blob/94578c8558b7dbdefa538c5187b09c2cc6b9ecff/AddNote_Screen.jpg" width="200" height="400" alt="Add Note Screen" />	<img src="https://github.com/Chandanaachandu/KotlinProject/blob/94578c8558b7dbdefa538c5187b09c2cc6b9ecff/UpdateNote_Screen.jpg" width="200" height="400" alt="Update Note Screen" />	<img src="https://github.com/Chandanaachandu/KotlinProject/blob/94578c8558b7dbdefa538c5187b09c2cc6b9ecff/DeleteNote_Screen.jpg" width="200" height="400" alt="Delete Note Screen" />
 Search Functionality
 <img src="https://github.com/Chandanaachandu/KotlinProject/blob/94578c8558b7dbdefa538c5187b09c2cc6b9ecff/SearchNote_Functionality.jpg" width="300" height="600" alt="Search Functionality" /></div>
 
