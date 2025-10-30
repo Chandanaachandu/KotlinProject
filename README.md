@@ -33,7 +33,7 @@ A simple and elegant Android Notes Manager application built with Kotlin that al
 
 ## Screenshots
 
-![image.alt](https://github.com/Chandanaachandu/KotlinProject/blob/136530efe8ecf08b89ecce40ede0d0c7bdcd68b9/Splash_Screen.jpg)
+<img src="https://github.com/Chandanaachandu/KotlinProject/blob/136530efe8ecf08b89ecce40ede0d0c7bdcd68b9/Splash_Screen.jpg" width="300" height="600" alt="Splash Screen" />
 
 ## How to Run the Project
 ### Prerequisites
